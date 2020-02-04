@@ -107,7 +107,7 @@ end
 ## Installation
 ```elixir
 def deps do
-  [{:ecto_source, github: "d4rkwizo/ecto-source"}]
+  [{:ecto_source, github: "wizo06/ecto-source"}]
 end
 ```
 Run:
